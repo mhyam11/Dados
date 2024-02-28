@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Márcio Yamanoi 💻</h1>
 <h3 align="center">Sou um apaixonado por ciência e análise de dados no mundo dos negócios <br><br>
-  Posso te ajudar a construir planilhas, automatizar planilhas e relatórios, desenvolver consultas em SQL e banco de dados, construir painéis/dashboards nas diversas ferramentas de visualização</h3>
+  Posso te ajudar a construir planilhas, automatizar planilhas e relatórios, desenvolver consultas em SQL e banco de dados, construir painéis/dashboards nas diversas ferramentas de visualização</h3><br>
 
 - 🔭 Sou formado em **Engenharia de Produção**
 
@@ -15,6 +15,8 @@
 - 📫 Você me acha através do e-mail **marcio_hyam@hotmail.com**
 
 - ⚡ Fun fact **Eu sou apaixonado por futebol, números e estatística**
+
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
