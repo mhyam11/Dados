@@ -1,11 +1,13 @@
 <h1 align="center">Oi 👋, Eu sou Márcio Yamanoi 💻</h1>
 <h3 align="center">Sou um Engenheiro de dados que é apaixonado desenvolver negócio através de informações</h3><br>
 
-- 🔭 Sou formado em **Engenharia de Produção**
++8 anos atuando com modelagem e análise de dados, Engenheiro de produção que desenvolve o negócio através dos dados, gerando soluções mais eficientes e robustas.
+
+- 🔭 Sou formado em **Engenharia de Produção** cursando Engenharia de dados na FIAP
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 👯 Atualmente estou trabalhando com **Análise e visualização de dados**
+- 👯 Atualmente estou trabalhando com **Análise de dados**
 
 - 🤝 Atualmente ajudo uma empresa multinacional na área de **Indicadores de Performance**
 
