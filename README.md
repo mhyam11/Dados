@@ -1,6 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Márcio Yamanoi 💻</h1>
-<h3 align="center">Sou um apaixonado por ciência e análise de dados no mundo dos negócios <br><br>
-  Posso te ajudar a construir planilhas, automatizar planilhas e relatórios, desenvolver consultas em SQL e banco de dados, construir painéis/dashboards nas diversas ferramentas de visualização</h3><br>
+<h3 align="center">Sou um Engenheiro de dados que é apaixonado desenvolver negócio através de informações</h3><br>
 
 - 🔭 Sou formado em **Engenharia de Produção**
 
@@ -8,9 +7,9 @@
 
 - 👯 Atualmente estou trabalhando com **Análise e visualização de dados**
 
-- 🤝 Atualmente ajudo uma empresa multinacional na área de **Growth**
+- 🤝 Atualmente ajudo uma empresa multinacional na área de **Indicadores de Performance**
 
-- 💬 Me pergunte sobre **Excel, SQL, Power BI, Tableau e Python**
+- 💬 Me pergunte sobre **Enegenharia de dados**
 
 - 📫 Você me acha através do e-mail **marcio_hyam@hotmail.com**
 
